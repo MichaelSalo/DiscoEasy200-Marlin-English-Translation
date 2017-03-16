@@ -55,7 +55,7 @@
 #ifndef MSG_MAIN
   #define MSG_MAIN                            "Main"
 #endif
-//------------------DAMN FROGS----------------------
+//------------MISSING TRANSLATION---------------------- 
 #ifndef MSG_LCD_OK                  
   #define MSG_LCD_OK                          "OK"
 #endif
@@ -77,7 +77,7 @@
 #ifndef MSG_CLICK_OK                  
   #define MSG_CLICK_OK                          "Click OK"
 #endif
-//---------------END DAMN FROGS---------------------
+//----------END MISSING TRANSLATION---------------------- 
 #ifndef MSG_AUTOSTART
   #define MSG_AUTOSTART                       "Autostart"
 #endif
@@ -171,11 +171,11 @@
 #ifndef MSG_MOVE_AXIS
   #define MSG_MOVE_AXIS                       "Move axis"
 #endif
-//------------------DAMN FROGS----------------------
+//------------MISSING TRANSLATION---------------------- 
 #ifndef MSG_Z_OFFSET
   #define MSG_Z_OFFSET                        "Set Z Offset"
 #endif
-//---------------END DAMN FROGS---------------------
+//----------END MISSING TRANSLATION---------------------- 
 #ifndef MSG_LEVEL_BED
   #define MSG_LEVEL_BED                       "Level bed"
 #endif
@@ -389,11 +389,11 @@
 #ifndef MSG_PREPARE
   #define MSG_PREPARE                         "Prepare"
 #endif
-//------------------DAMN FROGS----------------------
+//------------MISSING TRANSLATION---------------------- 
 #ifndef MSG_PREPARE_ADVENCED                  
   #define MSG_PREPARE_ADVENCED                "Advanced Options"
 #endif
-//---------------END DAMN FROGS---------------------
+//----------END MISSING TRANSLATION---------------------- 
 #ifndef MSG_TUNE
   #define MSG_TUNE                            "Tune"
 #endif
@@ -418,14 +418,14 @@
 #ifndef MSG_USERWAIT
   #define MSG_USERWAIT                        "Wait for user..."
 #endif
-//------------------DAMN FROGS----------------------
+//------------MISSING TRANSLATION---------------------- 
 #ifndef MSG_PARAMETERS                  
   #define MSG_PARAMETERS                      "Parameters"
 #endif
 #ifndef MSG_SAVED                  
   #define MSG_SAVED                           "Saved"
 #endif
-//---------------END DAMN FROGS---------------------
+//----------END MISSING TRANSLATION---------------------- 
 #ifndef MSG_RESUMING
   #define MSG_RESUMING                        "Resuming print"
 #endif
@@ -549,10 +549,10 @@
 #ifndef MSG_DELTA_CALIBRATE_CENTER
   #define MSG_DELTA_CALIBRATE_CENTER          "Calibrate Center"
 #endif
-//------------------DAMN FROGS----------------------
+//------------MISSING TRANSLATION---------------------- 
 #ifndef MSG_RECALIBRATE                  
   #define MSG_RECALIBRATE                     "Recalibrate"
 #endif
-//---------------END DAMN FROGS---------------------
+//----------END MISSING TRANSLATION---------------------- 
 
 #endif // LANGUAGE_EN_H
